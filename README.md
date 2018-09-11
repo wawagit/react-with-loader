@@ -8,7 +8,9 @@ use https://react-table.js.org/#/story/hoc-readme
 
 ## Thanks
 
-react-with-loader has been created to help developers team at Objenious (https://github.com/objenious) handling loaders in the development of the IOT management solution app named SPOT
+react-with-loader has been created to help developers team at Objenious (https://github.com/objenious) handling loaders in the development of the IOT management solution app named SPOT.
+
+Thanks for supporting open source!
 
 
 ## License

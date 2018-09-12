@@ -1,7 +1,7 @@
 # react-with-loader
 useful higher order component which add loader in your react app
 
-follow https://yarnpkg.com/fr/package/react-shisell
+follow https://yarnpkg.com/fr/package/react-shisell | https://github.com/cwRichardKim/RKSwipeCards
 
 use https://react-table.js.org/#/story/hoc-readme
 
